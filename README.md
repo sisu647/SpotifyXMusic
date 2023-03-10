@@ -6,21 +6,21 @@
   <img src="https://te.legra.ph/file/afe4a4fbfce71550898b4.jpg">
 </p>
 <p align="center">
-<a href="https://github.com/Metaboy583/SpotifyXMusic/stargazers"><img src="https://img.shields.io/github/stars/Metaboy583/SpotifyXMusic?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
-<a href="https://github.com/Metaboy583/SpotifyXMusic/network/members"> <img src="https://img.shields.io/github/forks/Metaboy583/SpotifyXMusic?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="https://github.com/sisu647/SpotifyXMusic/stargazers"><img src="https://img.shields.io/github/stars/sisu647/SpotifyXMusic?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
+<a href="https://github.com/sisu647/SpotifyXMusic/network/members"> <img src="https://img.shields.io/github/forks/sisu647/SpotifyXMusic?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
 
 
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Metaboy583/SpotifyXMusic"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/sisu647/SpotifyXMusic"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
 </h3>
 
-- Get your [Necessary Variables](https://github.com/Metaboy583/SpotifyXMusic/blob/main/sample.env)
+- Get your [Necessary Variables](https://github.com/sisu647/SpotifyXMusic/blob/main/sample.env)
 - Upgrade and Update by :
 `sudo apt-get update && sudo apt-get upgrade -y`
 - Install Ffmpeg by :
@@ -32,7 +32,7 @@
 - Install Node js by :
 `curl -fssL https://deb.nodesource.com/setup_18.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm`
 - Clone the repository by :
-`git clone https://github.com/Metaboy583/SpotifyXMusic && cd SpotifyXMusic`
+`git clone https://github.com/sisu647/SpotifyXMusic && cd SpotifyXMusic`
 - Install requirements by :
 `pip3 install -U -r requirements.txt`
 - Fill your variables in the env by :
